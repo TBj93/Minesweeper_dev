@@ -1,0 +1,13 @@
+C:\Test\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Test\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Test\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\PC\Downloads\Minesweeper (1)\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\PC\Downloads\Minesweeper (1)\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
