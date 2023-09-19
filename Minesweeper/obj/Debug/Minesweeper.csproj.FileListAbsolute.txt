@@ -11,3 +11,5 @@ C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
 C:\Test\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
 C:\Users\PC\Downloads\Minesweeper (1)\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
 C:\Users\PC\Downloads\Minesweeper (1)\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\PC\Documents\GitHub\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\PC\Documents\GitHub\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb

@@ -96,12 +96,13 @@ namespace Minesweeper.Classes.Container
             else if (e.Button == MouseButtons.Left)
             {
                 Show(!IsShown);
-                test();
+              //  test();
                 
                 
             }
         }
 
+        //HKBHJBHJ
         /// <summary>
         /// Setter für 'IsFlagged'.
         /// </summary>
